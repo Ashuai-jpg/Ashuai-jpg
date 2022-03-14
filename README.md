@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to sleep.
 - 💞️ I’m looking for joying.
 - 📫 No need to reach me.
+- 😓 BTW Guy-Z is a lad who like to laying on the  beach with glorious sun.
 
 <!---
 Ashuai-jpg/Ashuai-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
