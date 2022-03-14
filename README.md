@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashuai-jpg
 - 👀 I’m interested in any technique that gives me benefite with no $ cost😂
-- 🌱 I’m currently learning javascript; css, html, java; python
-- 💞️ I’m looking to collaborate on (not sure)
+- 🌱 I’m currently learning how to sleep.
+- 💞️ I’m looking for joying.
 - 📫 No need to reach me.
 
 <!---
