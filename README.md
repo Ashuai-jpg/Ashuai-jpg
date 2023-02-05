@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ashuai-jpg
+- ❤️ Apparently I love jisoo😊
 - 👀 I’m interested in any technique that gives me benefite with no $ cost😂
 - 🌱 I’m currently learning how to be a Front-end web Dev.
 - 💞️ I’m looking for joying.
