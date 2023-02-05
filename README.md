@@ -6,8 +6,8 @@
 - 😓 BTW Guy-Z is a [good boy](https://stock.adobe.com/search?k=fuckyou)
 ***
 # Moto
-    if (sad()) {
-        sad().ignore();
+    if (sad) {
+        sad.ignore();
         return you => beAwsome(you);
     }
 <!---
