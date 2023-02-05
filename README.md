@@ -8,7 +8,7 @@
 # Moto
     if (sad()) {
         sad().ignore();
-        return you => you.beAwsome();
+        return you => beAwsome(you);
     }
 <!---
 Ashuai-jpg/Ashuai-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
