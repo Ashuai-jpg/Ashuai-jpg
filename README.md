@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to be a Front-end web Dev.
 - 💞️ I’m looking for joying.
 - 📫 No need to reach me.
-- 😓 BTW Guy-Z is a [good boy](https://stock.adobe.com/search?k=fuckyou)
+- 😓 BTW Guy-Z is a [good boy](https://as1.ftcdn.net/v2/jpg/00/58/29/20/1000_F_58292060_ysyZ30l0KgdchvddK5PypYSkxooavopk.jpg)
 ***
 # Moto
     if (sad) {
